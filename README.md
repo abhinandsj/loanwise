@@ -170,8 +170,7 @@ The system uses an internal wallet ledger to simulate payments (UPI, card, net b
 - Store secrets in a secure vault or environment manager.
 - Run frontends behind a reverse proxy and serve the API on a stable domain.
 
-## License
-Add your license here.
+
 
 
 

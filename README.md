@@ -162,73 +162,6 @@ npm run build
 The system uses an internal wallet ledger to simulate payments (UPI, card, net banking) for safe testing without real transactions. Stripe-related pages exist in the UI for optional test-mode integration, but the default LMS flow works without any external provider.
 
 
-## Screenshots
-
-User Portal:
-- Home:
-  <img width="1876" height="1073" alt="home" src="https://github.com/user-attachments/assets/c38e37b2-b3ef-4951-b908-5b4734f2537c" />
-
-- Login:
-  <img width="1894" height="1084" alt="login" src="https://github.com/user-attachments/assets/2c549d9a-512c-4d42-acc6-31ff39433008" />
-
-- Signup:
-  <img width="1887" height="1075" alt="signup" src="https://github.com/user-attachments/assets/2c03b10a-e2ac-4575-b979-aea5c86811a2" />
-
-- Dashboard:
-  ![userdashboard](https://github.com/user-attachments/assets/c9494af6-6598-4426-8dd3-05e71e938977)
-
-- KYC:
-  ![kyc](https://github.com/user-attachments/assets/74db1f7c-f105-4cdb-b24d-392fba7bca6f)
-
-- Wallet:
-  ![wallet](https://github.com/user-attachments/assets/9a3c93f7-f43a-4c85-9d20-781a8b1f5c45)
-
-- EMI Repayment:
-  ![emirepyament](https://github.com/user-attachments/assets/ce4a5319-b1cf-4c0e-8f28-eb4b085c3a64)
-
-- One Time Settlement:
-  ![ots](https://github.com/user-attachments/assets/5b33ba2c-d4ec-4070-b687-c3bd59394a7b)
-
-- Loan Apply:
-  <img width="632" height="356" alt="loan" src="https://github.com/user-attachments/assets/bfcb3089-c067-433f-884c-bb228348ecca" />
-
-  ![applyloan](https://github.com/user-attachments/assets/8f80c89a-867c-48b4-a40f-7b81d24f63d3)
-
-- Loan Created:
-  ![loancreated](https://github.com/user-attachments/assets/4fccc5d5-3526-43d1-be17-1cd7108a253a)
-
-- Loan Status:
-  ![loanstatus](https://github.com/user-attachments/assets/640aa091-6262-4886-8389-28d8303ffeae)
-
-- Profile:
-  ![profile](https://github.com/user-attachments/assets/872f551d-272a-43dd-b417-61c95c86caa7)
-
-
-Admin Portal:
-- Admin Login:
-  ![managerlogin](https://github.com/user-attachments/assets/1ff101a2-4a2d-4b5b-8dd5-f40e4a315267)
-
-- Branch Dashboard:
-  ![branchdash](https://github.com/user-attachments/assets/5710ab3c-63cd-4ff4-abec-6ffc766ba2d7)
-
-- Branch Loan Applications:
-  <img width="1861" height="1053" alt="loanapproval" src="https://github.com/user-attachments/assets/5a750d27-d7ff-47f8-a578-088c864f5319" />
-
-- Branch KYC Review:
-  <img width="1870" height="1059" alt="kycapprove" src="https://github.com/user-attachments/assets/8ca9694b-8390-41cf-a83f-ccb2173b459e" />
-
-- Regional Dashboard:
-  ![regionaldash](https://github.com/user-attachments/assets/48af7b89-23bf-4957-8b36-b08ff48ab798)
-
-- Regional Loan Applications:
-  <img width="1875" height="1082" alt="regionalapprove" src="https://github.com/user-attachments/assets/76319695-4cf4-47a7-807c-8366924bdcb0" />
-  
-- Regional Repayments:
-  ![regionalrepyament](https://github.com/user-attachments/assets/df940edf-3b7e-40c8-bdae-be6ae759191d)
-
-- Regional Audit Logs:
-  <img width="953" height="541" alt="auditlogs" src="https://github.com/user-attachments/assets/7964f76b-3530-4a97-8389-6316a80a0032" />
-
 
 
 ## Production Notes
@@ -239,5 +172,6 @@ Admin Portal:
 
 ## License
 Add your license here.
+
 
 
